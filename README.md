@@ -1,1 +1,1 @@
-# kodluyoruz-veri-yapilari
+**Kodluyoruz & Patika.dev** Veri Yapıları Projesi
